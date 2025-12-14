@@ -2,6 +2,7 @@
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![PHP](https://img.shields.io/badge/PHP-7.4%2B-purple)
 ![Status](https://img.shields.io/badge/status-stable-success)
+![GitHub release](https://img.shields.io/github/v/release/phphr/phphr)
 
 # PHPHR – Open Source HR Management Software
 
