@@ -1,3 +1,8 @@
+![Release](https://img.shields.io/badge/version-3.0.0-blue)
+![License](https://img.shields.io/badge/license-MIT-green)
+![PHP](https://img.shields.io/badge/PHP-7.4%2B-purple)
+![Status](https://img.shields.io/badge/status-stable-success)
+
 # PHPHR – Open Source HR Management Software
 
 PHPHR is a modern Human Resource Management (HRM) platform available in two
