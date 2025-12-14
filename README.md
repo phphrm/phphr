@@ -50,8 +50,35 @@ long-term scalability goals.
 
 ## 📦 Installation
 
-Please follow the complete installation guide here:  
-➡ **[INSTALL.md](INSTALL.md)**
+
+1. Download the PHPHR Open-Source package and extract it into your
+   web server root directory (for example: htdocs, www, or public_html).
+
+2. Create a new MySQL / MariaDB database.
+   (UTF8MB4 character set is recommended.)
+
+3. Import the database schema using the SQL file located at:
+       /database/phphr_install.sql
+
+4. Open the database configuration file:
+       /app/config/database.php
+
+   Update the following database credentials:
+       DB_HOST
+       DB_NAME
+       DB_USER
+       DB_PASS
+
+5. Open the application configuration file:
+       /app/config/config.php
+
+   Update company details and HR system settings as required.
+
+6. Open your browser and access PHPHR using:
+       http://localhost/your-project-folder/public/
+
+7. Log in using the default admin credentials and
+   change the password immediately after first login.
 
 ---
 
